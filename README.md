@@ -10,7 +10,6 @@ Check out my [Twitter](https://twitter.com/jmqcooper) or [ReelsMeals](https://re
 
 - [asvspoof5-domain-invariant-cm](https://github.com/Jmqcooper1/asvspoof5-domain-invariant-cm) — Domain-adversarial training for codec-robust speech deepfake detection (MSc thesis, UvA)
 - [QLoRa-study](https://github.com/Jmqcooper1/QLoRa-study) — Exploring QLoRA fine-tuning for large language models
-- [legal-assist-agent](https://github.com/Jmqcooper1/legal-assist-agent) — AI agent for legal document assistance
 - [nlp1](https://github.com/Jmqcooper1/nlp1) — NLP research projects
 
 ### Products
